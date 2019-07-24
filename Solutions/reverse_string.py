@@ -1,0 +1,4 @@
+def reverse(text):
+    output = list(text)
+    output.reverse()
+    return "".join(output)
